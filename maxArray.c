@@ -4,8 +4,9 @@
 /* il programma inzializza per suo conto una array di N elementi double, 
 e poi ne calcola e stampa il massimo */
 
-/* se on funziona la perdita di tempo ... #include <unistd.h> */
+/* se non funziona la perdita di tempo ... #include <unistd.h> */
 
+/* ALTRI COMMENTI AGGIUNTI */
 
 /* funzione che, ricevuto un array di N elementi double, lo stampa in output per benino */
 void stampaArray (double a[N]) {
