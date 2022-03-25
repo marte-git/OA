@@ -6,16 +6,17 @@ e poi ne calcola e stampa il massimo */
 
 /* se non funziona la perdita di tempo ... #include <unistd.h> */
 
-/* ALTRI COMMENTI AGGIUNTI */
 
-/* funzione che, ricevuto un array di N elementi double, lo stampa in output per benino */
+
 void stampaArray (double a[N]) {
-    int i;
+    int i, j;
 
   printf ("(");
   for (i=0; i<N; i++) 
       printf (" %g ", a[i]);
   printf (")\n\n");
+
+printf("ecco il valore di j: %d\n", j);
 return;
 }
 
