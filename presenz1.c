@@ -9,7 +9,7 @@
 int presente (char *v[], char *cercata);
 void rivolta(char *);
 
-
+/*************************** commento aggiunto *****************************/
 main(){
  int i;
  char *stringhe[N],       /* array di N stringhe */
